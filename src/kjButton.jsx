@@ -1,5 +1,5 @@
-function kjButton(){
+function KjButton(){
   return <button>CLICK ME</button>
 }
 
-export default kjButton;
+export default KjButton;

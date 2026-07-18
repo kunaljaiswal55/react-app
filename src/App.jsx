@@ -1,14 +1,13 @@
-import kjButton from "./kjButton";
+import KjButton from "./kjButton";
 
 function App (){
-  return 
-  <div>
+  return (
+    <div>
     <h1>
       hi i am kunal jaiswal
     </h1>
-    <kjButton></kjButton>
+    <KjButton />
   </div>
-  
-  
+  );
 }
 export default App;
