@@ -1,5 +1,5 @@
 import KjButton from "./kjButton";
-
+import Hello from "./hello";
 function App (){
   return (
     <div>
@@ -7,6 +7,7 @@ function App (){
       hi i am kunal jaiswal
     </h1>
     <KjButton />
+    <Hello></Hello>
   </div>
   );
 }
